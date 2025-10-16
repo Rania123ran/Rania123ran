@@ -12,6 +12,6 @@
 
 ---
 ### 📫 Contact Me
-[![Email](https://img.shields.io/badge/Email-YourEmail-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@example.com) &nbsp;
+[![Email](https://img.shields.io/badge/Email-YourEmail-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rania.akourrou@e-polytechnique.ma) &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-@tonusername-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tonusername) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonusername)
