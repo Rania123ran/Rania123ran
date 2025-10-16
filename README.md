@@ -12,6 +12,6 @@
 
 ---
 ### 📫 Contact Me
-[![Email](https://img.shields.io/badge/Email-YourEmail-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rania.akourrou@e-polytechnique.ma) &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-@tonusername-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tonusername) &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonusername)
+[![Email](https://img.shields.io/badge/Email-rania.akourrou@e--polytechnique.ma-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rania.akourrou@e-polytechnique.ma) &nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-@ranie.ak-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ranie.ak) &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rania%20AKOURROU-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rania-akourrou)
