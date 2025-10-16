@@ -12,4 +12,6 @@
 
 ---
 ### 📫 Contact Me
-<a href="mailto:rania.akourrou@e-polytechnique.ma" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Email-rania.akourrou@e--polytechnique.ma-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="180"/> </a> <a href="https://www.instagram.com/ranie.ak" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Instagram-@ranie.ak-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="180"/> </a> <a href="https://www.linkedin.com/in/rania-akourrou-a930a5283/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-Rania%20Akourrou-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="180"/> </a>
+[![Email](https://img.shields.io/badge/Email-rania.akourrou@e--polytechnique.ma-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rania.akourrou@e-polytechnique.ma) &nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-@ranie.ak-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ranie.ak) &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rania%20AKOURROU-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rania-akourrou-a930a5283/)
